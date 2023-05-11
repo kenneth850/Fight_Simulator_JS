@@ -4,4 +4,4 @@ Ici, il s'agit d'un simple jeu/exercice en JS qui se déroule essentiellement da
 
 Ce jeu/exercice m'a permis de comprendre en profondeur la programmation orientée objets.
 
-Pour le tester, cliquez ici et ouvrez la console de votre page pour voir le résultat : https://kenneth850.github.io/Fight_Simulator_JS/
+Pour le tester, cliquez ici et ouvrez la console de votre page (ainsi que VSC) pour voir le résultat : https://kenneth850.github.io/Fight_Simulator_JS/
